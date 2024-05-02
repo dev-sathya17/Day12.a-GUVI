@@ -1,0 +1,26 @@
+img {
+  height: 350px;
+}
+.main {
+  height: 90vh;
+  margin-top: 5vh;
+}
+
+.fields {
+  padding-right: 300px;
+  height: 500px;
+}
+
+.field {
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  width: 300px;
+  height: 40px;
+  border-bottom: 4px solid;
+  padding-left: 9px;
+}
+.seat {
+  width: 150px;
+  margin-right: 150px;
+}
